@@ -1,5 +1,5 @@
 {
-    "name": "travisbutterfield/asu_user",
+    "name": "asuwebplatforms/asu_user",
     "description": "Contains drupal customisations for the asurite users.",
     "type": "drupal-module",
     "license": "MIT"
